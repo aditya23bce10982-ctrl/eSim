@@ -1,3 +1,6 @@
+NOTE:
+This installer is not updated for Ubuntu 25.x.
+Several referenced scripts and dependencies are missing or deprecated.
 
 eSim installation instructions
 =================================
